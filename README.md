@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href='#tecnologies'>Tecnologias</a>|
-  <a href='#funcionalidades'>Funcionalidades </a>|
+  <a href='#tecnologies'>Tecnologias</a> |
+  <a href='#funcionalidades'>Funcionalidades </a> | 
   <a href='#howToUse'>Como usar </a>
 </p>
 
