@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href='#tecnologies'>Tecnologias</a> |
-  <a href='#funcionalidades'>Funcionalidades </a> | 
-  <a href='#howToUse'>Como usar </a>
+  <a href='#funcionalidades'>Funcionalidades </a> 
 </p>
 
 ![AppSimplesMvc](https://user-images.githubusercontent.com/50780211/117827536-73ca6c00-b247-11eb-804c-eb827b62f3ed.gif)
